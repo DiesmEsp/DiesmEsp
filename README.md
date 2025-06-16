@@ -29,3 +29,8 @@
 ## 💻 Intereses teconologicos
 Tengo un gran interés en tecnologías como las IOT por su alto ofrecimiento dentro de mercados actuales y el poco reconocimiento dentro del mercado peruano. Además tengo grandes intereses en tecnologías como las inteligencias artificiales por su amplia aplicación tanto en la vida de las personas como en las empresas.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
+</picture>  
