@@ -27,4 +27,5 @@
   6 meses en la Asociación Cultural Peruano Britanica
 
 ## 💻 Intereses teconologicos
-Tengo un gran interés en tecnologías como las IOT por su alto ofrecimiento dentro de mercados actuales 
+Tengo un gran interés en tecnologías como las IOT por su alto ofrecimiento dentro de mercados actuales y el poco reconocimiento dentro del mercado peruano. Además tengo grandes intereses en tecnologías como las inteligencias artificiales por su amplia aplicación tanto en la vida de las personas como en las empresas.
+
