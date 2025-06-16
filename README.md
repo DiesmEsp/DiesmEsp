@@ -13,3 +13,9 @@
 <!--Intro end-->
   </p>
 <br>
+
+## 🎓 Educacion
+- **Bachiller en ingenieria de software**
+  Universidad Nacional Mayor de San Marcos, Peru
+- **Estudios de Ingles (Basico)**  
+  6 meses en la Asociación Cultural Peruano Britanica
